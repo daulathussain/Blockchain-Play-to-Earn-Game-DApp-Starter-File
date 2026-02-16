@@ -1,6 +1,6 @@
 # Blockchain Play-to-Earn Game DApp
 
-![alt text]()
+![alt text](https://www.daulathussain.com/wp-content/uploads/2026/02/Create-Deploy-Blockchain-Play-to-Earn-Game-DApp-Earn-ERC20-Tokens-Using-Solidity-Nextjs-Any-Blockchain.jpg)
 
 - [Final Source Code]()
 
